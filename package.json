@@ -1,0 +1,23 @@
+{
+  "name": "red-purge",
+  "version": "0.1.0",
+  "author": "Denis Wolf <dear.mr.dw@gmail.com>",
+  "dependencies": {
+    "asking": "^0.1.2",
+    "bluebird": "^2.7.0",
+    "redis": "^0.12.1",
+    "ronin": "^0.1.2",
+    "then-redis": "^1.2.2"
+  },
+  "bin": {
+    "red-purge": "./bin/red-purge"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deniswolf/red-purge"
+  },
+  "bugs": {
+    "url": "https://github.com/deniswolf/red-purge/issues"
+  },
+  "license": "MIT"
+}
